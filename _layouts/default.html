@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	{%- include head.html -%}
+</head>
+<body>
+	<main class="container">
+		<section class="about">
+			<a href="{{ site.url }}"><img src="{{ "/assets/r-logo.png" | relative_url }}" alt="{{ site.name }}"></a>
+			<a href="{{ site.url }}"><h2>{{ site.title }}</h2></a>
+			<p class="tagline">{{ site.tagline }}</p>
+			<ul class="social">
+				<a href="https://github.com/{{ site.social_links.github }}"><li><i class="icon-github-circled"></i></li></a>
+				<a href="https://twitter.com/{{ site.social_links.twitter }}"><li><i class="icon-twitter-squared"></i></li></a>
+			</ul>
+		</section>
+		<section class="content">
+			{{ content }}
+		</section>
+	</main>
+	
+</body>
+</html>
