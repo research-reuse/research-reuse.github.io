@@ -1,7 +1,8 @@
 ---
 layout: post
+title: Welcome to the Workshop
 ---
-# Welcome to the Workshop
+
 
 Catty ipsum love you, then bite you. Cat ass trophy i shall purr myself to sleep lick yarn hanging out of own butt, or furrier and even more furrier hairball. Litter kitter kitty litty little kitten big roar roar feed me caticus cuteicus. Ears back wide eyed i hate cucumber pls dont throw it at me. Cough furball milk the cow. Lick butt and make a weird face cats woo but i like frogs and 0 gravity. Poop in the plant pot has closed eyes but still sees you and hide at bottom of staircase to trip human scream at teh bath and demand to be let outside at once, and expect owner to wait for me as i think about it. Dismember a mouse and then regurgitate parts of it on the family room floor purr like an angel. Drink water out of the faucet dead stare with ears cocked and decide to want nothing to do with my owner today lounge in doorway carefully drink from water glass and then spill it everywhere and proceed to lick the puddle. Love you, then bite you.
 
