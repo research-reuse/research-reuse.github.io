@@ -1,10 +1,21 @@
 ---
 layout: post
-title: Welcome to the Workshop
+title: Curating Data Sets for Reproducibility
 ---
 
+This workshop will cover key considerations for preparing and sharing data and software to improve the reproducibility of published results. Participants will have the opportunity to put into practice lessons learned while exploring published data sets. Openly available tools that support reproducibility will also be examined.
 
-Catty ipsum love you, then bite you. Cat ass trophy i shall purr myself to sleep lick yarn hanging out of own butt, or furrier and even more furrier hairball. Litter kitter kitty litty little kitten big roar roar feed me caticus cuteicus. Ears back wide eyed i hate cucumber pls dont throw it at me. Cough furball milk the cow. Lick butt and make a weird face cats woo but i like frogs and 0 gravity. Poop in the plant pot has closed eyes but still sees you and hide at bottom of staircase to trip human scream at teh bath and demand to be let outside at once, and expect owner to wait for me as i think about it. Dismember a mouse and then regurgitate parts of it on the family room floor purr like an angel. Drink water out of the faucet dead stare with ears cocked and decide to want nothing to do with my owner today lounge in doorway carefully drink from water glass and then spill it everywhere and proceed to lick the puddle. Love you, then bite you.
+*Facilitators*: [Shahira Khair](mailto:skhair@uvic.ca), [Sandra Sawchuk](mailto:sandra.sawchuk@msvu.ca)
 
-Plays league of legends. Run outside as soon as door open meow loudly just to annoy owners or weigh eight pounds but take up a full-size bed friends are not food so bird bird bird bird bird bird human why take bird out i could have eaten that. Sit and stare headbutt owner's knee let me in let me out let me in let me out let me in let me out who broke this door anyway , scream at teh bath, sit on human they not getting up ever cat slap dog in face. Meowzer. Sit on human they not getting up ever scratch me there, elevator butt damn that dog put butt in owner's face for pee in the shoe demand to be let outside at once, and expect owner to wait for me as i think about it. Good now the other hand, too eat and than sleep on your face destroy couch as revenge have secret plans. Lick face hiss at owner, pee a lot, and meow repeatedly scratch at fence purrrrrr eat muffins and poutine until owner comes back eat owner's food mewl for food at 4am. Sniff sniff my slave human didn't give me any food so i pooped on the floor poop on grasses. At four in the morning wake up owner meeeeeeooww scratch at legs and beg for food then cry and yowl until they wake up at two pm jump on window and sleep while observing the bootyful cat next door that u really like but who already has a boyfriend end up making babies with her and let her move in prance along on top of the garden fence, annoy the neighbor's dog and make it bark. Hide when guests come over swipe at owner's legs yet intently sniff hand cough hairball, eat toilet paper yet cuddle no cuddle cuddle love scratch scratch howl on top of tall thing hunt by meowing loudly at 5am next to human slave food dispenser. Meeeeouw intrigued by the shower. Roll on the floor purring your whiskers off. This human feeds me, i should be a god meoooow present belly, scratch hand when stroked. Bleghbleghvomit my furball really tie the room together scratch the furniture or dont wait for the storm to pass, dance in the rain, floof tum, tickle bum, jellybean footies curly toes, i hate cucumber pls dont throw it at me for bird bird bird bird bird bird human why take bird out i could have eaten that cats go for world domination.
 
+## Agenda
+
+### Part I: Introduction
+
+### Part II: Reproducibility from the perspective of data creators/curators
+
+### Part III: Reproducibility from the perspective of data re-users
+
+### Slide Deck
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYxCI33ZiEtTsgvVF7uXJKzlkn3Bpdvy0svichCZ7K-gZTNWUvC1otETOwKYhBYgpG1FwWF0_tlxwC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
