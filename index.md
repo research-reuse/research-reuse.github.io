@@ -32,8 +32,12 @@ This workshop will cover key considerations for preparing and sharing data and s
 
 1. Graphic explaining virtual machines
 2. Load the data:
-  - [PISA project](https://github.com/research-reuse/PISA)
-  - [Review, Promotion and Tenure project](https://github.com/research-reuse/rpt-project)
+   - Is there a relationship between countries’ wealth or spending on schooling and its students’ performance in PISA? (Klajnerok, 2017) 
+     - Article: <https://towardsdatascience.com/is-there-a-relationship-between-countries-wealth-or-spending-on-schooling-and-its-students-a9feb669be8c>  
+     - Reproduced Repo (data & code): <https://github.com/research-reuse/PISA>  
+   - How significant are the public dimensions of faculty work in review, promotion, and tenure documents? (Alperin et al., 2018) 
+     - Article: <http://doi.org/10.17613/M6W950N3>
+     - Reproduced Repo (data & code): <https://github.com/research-reuse/rpt-project>  
 3. Instructions for altering code
 
 ## Slide Deck
