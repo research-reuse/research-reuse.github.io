@@ -49,3 +49,5 @@ This workshop will cover key considerations for preparing and sharing data and s
 Boettiger, C. (2015). An introduction to Docker for reproducible research. *SIGOPS Operating Systems Review, 49*(1), 71-79. DOI: <https://doi.org/10.1145/2723872.2723882>.
 
 Itech Gal. (March 1, 2018). Better Python dependency while packaging your project. *Python Pandemonium*. <https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1>.
+
+Steeves, V., Rampin, R., & Chirigati, F. (2018). Using ReproZip for Reproducibility and Library Services. *IASSIST Quarterly, 42*(1), 14–14. <https://doi.org/10/gf9hw5>
