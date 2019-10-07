@@ -14,7 +14,7 @@ This workshop will cover key considerations for preparing and sharing data and s
 
 ### Part II: Reproducibility from the perspective of data creators/curators
 
-1. Installation instructions for [Open Science Framework](https://docs.google.com/document/d/1fWZYcEtnSkfucucvAaatOAE3pnzQamhXHeKCGOtWf-M/edit)
+1. Installation instructions for [Open Science Framework](https://docs.google.com/document/d/1Rh3pTZeJikceWaiba86gXdDHcthkRKjcUkAxiCh7vlE/edit)
 2. Compile 3 dataset materials:
    - Balanced Journalism Amplifies Minority Positions: A Case Study of the Newspaper Coverage of a Fluoridation Plebiscite (Kiss et al., 2018)  
      - Article: <https://www.cjc-online.ca/index.php/journal/article/view/3355>  
