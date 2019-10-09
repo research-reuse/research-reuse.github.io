@@ -47,8 +47,11 @@ This workshop will cover key considerations for preparing and sharing data and s
 
 ## <a id="references"></a>References & Resources
 
-Boettiger, C. (2015). An introduction to Docker for reproducible research. *SIGOPS Operating Systems Review, 49*(1), 71-79. DOI: <https://doi.org/10.1145/2723872.2723882>.
-
-Itech Gal. (March 1, 2018). Better Python dependency while packaging your project. *Python Pandemonium*. <https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1>.
-
-Steeves, V., Rampin, R., & Chirigati, F. (2018). Using ReproZip for Reproducibility and Library Services. *IASSIST Quarterly, 42*(1), 14–14. <https://doi.org/10/gf9hw5>
+- Benureau, F.C.Y. & Rougier, N.P. (2018). Re-run, repeat, reproduce, reuse, replicate: Transforming code into scientific contributions. *Frontiers in Neuroinformatics, 11*(69). <https://dx.doi.org/10.3389/fninf.2017.00069>.  
+- Broman, K. (n.d.). Initial steps toward reproducible research. Accessed September 05, 2019 from <https://kbroman.org/steps2rr/>
+- Boettiger, C. (2015). An introduction to Docker for reproducible research. *SIGOPS Operating Systems Review, 49*(1), 71-79. <https://doi.org/10.1145/2723872.2723882>.
+- Clyburn-Sherin, A. (2019). Preparing data and code for reproducible publication using container technology. *Research Data Access and Preservation Summit*. 2019 Workshop. Coral Gables, FL. Slides accessed September 05, 2019 from <http://bit.ly/rdap-workshop>.
+- Itech Gal. (March 1, 2018). Better Python dependency while packaging your project. *Python Pandemonium*. <https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1>.
+- Kitzes, J., Turek D., & Deniz, F. (Eds.). (2018). *The practice of reproducible research: Case studies and lessons from the data-intensive sciences*. Oakland, CA: University of California Press. <https://www.practicereproducibleresearch.org>
+- Steeves, V., Rampin, R., & Chirigati, F. (2018). Using ReproZip for reproducibility and library Services. *IASSIST Quarterly, 42*(1), 14–14. <https://doi.org/10/gf9hw5>.
+- Tatman, R., VanderPlas, J., & Dane, S. (2018). A practical taxonomy of reproducibility for machine learning research. *International Conference on Machine Learning*. Reproducibility in Machine Learning Workshop at ICML 2018, Stockholm, Sweden. <http://www.rctatman.com/files/2018-7-14-MLReproducability.pdf>
