@@ -8,14 +8,14 @@ This workshop will cover key considerations for preparing and sharing data and s
 *Facilitators*: [Shahira Khair](mailto:skhair@uvic.ca), [Sandra Sawchuk](mailto:sandra.sawchuk@msvu.ca)    
 *Collaborator*: [Qian Zhang](mailto:qian.zhang1@uwaterloo.ca)
 
-## Workshop Agenda
+## <a id="workshop"></a>Workshop Agenda
 
 ### Part I: Introduction
 
 ### Part II: Reproducibility from the perspective of data creators/curators
 
-1. Installation instructions for [Open Science Framework](https://docs.google.com/document/d/1Rh3pTZeJikceWaiba86gXdDHcthkRKjcUkAxiCh7vlE/edit)
-2. Compile 3 dataset materials:
+1. Open [Activity 1 - Organization & assessment of research materials](https://docs.google.com/document/d/1Rh3pTZeJikceWaiba86gXdDHcthkRKjcUkAxiCh7vlE/edit).
+2. Compile the following dataset materials in OSF:
    - Balanced Journalism Amplifies Minority Positions: A Case Study of the Newspaper Coverage of a Fluoridation Plebiscite (Kiss et al., 2018)  
      - Article: <https://www.cjc-online.ca/index.php/journal/article/view/3355>  
      - Repo (data & code): <https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP/V2VPZ4> 
@@ -26,11 +26,12 @@ This workshop will cover key considerations for preparing and sharing data and s
    - A review of riverine ecosystem service quantification: research gaps and recommendations (Hanna et al., 2017)  
      - Article: <https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13045>  
      - Repo (data & code): <https://zenodo.org/record/1013254> 
-3. [Assessment Framework](https://docs.google.com/document/d/1E0c5-DDVo2MMoF2rPOiH2brIZyC_3YZZrcgp0x6VCPs/edit) 
+3. Complete the [Assessment Framework](https://docs.google.com/document/d/1E0c5-DDVo2MMoF2rPOiH2brIZyC_3YZZrcgp0x6VCPs/edit).
 
 ### Part III: Reproducibility from the perspective of data re-users
 
 1. Graphic explaining virtual machines
+   - [How Binder works](/assets/mybinder-workflow.jpeg)
 2. Load the data:
    - Is there a relationship between countries’ wealth or spending on schooling and its students’ performance in PISA? (Klajnerok, 2017) 
      - Article: <https://towardsdatascience.com/is-there-a-relationship-between-countries-wealth-or-spending-on-schooling-and-its-students-a9feb669be8c>  
@@ -40,11 +41,11 @@ This workshop will cover key considerations for preparing and sharing data and s
      - Reproduced Repo (data & code): <https://github.com/research-reuse/rpt-project>  
 3. Instructions for altering code
 
-## Slide Deck
+## <a id="slide"></a>Slide Deck
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYxCI33ZiEtTsgvVF7uXJKzlkn3Bpdvy0svichCZ7K-gZTNWUvC1otETOwKYhBYgpG1FwWF0_tlxwC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-## References & Resources
+## <a id="references"></a>References & Resources
 
 Boettiger, C. (2015). An introduction to Docker for reproducible research. *SIGOPS Operating Systems Review, 49*(1), 71-79. DOI: <https://doi.org/10.1145/2723872.2723882>.
 

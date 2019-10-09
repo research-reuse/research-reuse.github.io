@@ -100,6 +100,15 @@ main {
 		img {
 			max-width: 150px;
 		}
+		ul {
+			list-style-type: none;
+			padding: 0;
+			margin-top: 2;
+			text-align: center;
+			font-family: 'Open Sans', sans-serif;
+			font-weight: 400;
+	
+}
 	}
 }
 .social {
@@ -110,10 +119,10 @@ main {
 		float: left;
 		i {
 			font-size: 34px;
-		}
-	}
+		}	
 }
-
+	
+}
 .post-categories {
 	list-style-type: none;
 	margin: 0;
@@ -163,10 +172,14 @@ main {
 	padding-left: 40px;
 }
 .post {
-	font-family: 'Merriweather', sans-serif;
-	font-weight: 300;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
 	color: #222;
 	line-height: 1.9em;
+	
+	h2, h3 {
+		font-family: 'Raleway', sans-serif;
+	}
 	a {
 		color: $linkColor;
 		text-decoration: none;
