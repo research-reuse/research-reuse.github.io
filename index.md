@@ -36,8 +36,10 @@ This workshop will cover key considerations for preparing and sharing data and s
 2. Open [Activity 3: Inspecting the repository and the notebook](/activity3/).
 3. Open [Activity 4: Experimenting with the code](/activity4/).
 4. Bonus activity: Play around with another repository:
-   - How significant are the public dimensions of faculty work in review, promotion, and tenure documents? (Alperin et al., 2018) <https://github.com/research-reuse/rpt-project>
-     - What are the differences between this project and the last one?
+    - How significant are the public dimensions of faculty work in review, promotion, and tenure documents? (Alperin et al., 2018) 
+      - Article: <http://doi.org/10.17613/M6W950N3>
+      - Reproduced Repo (data & code): <https://github.com/research-reuse/rpt-project>  
+        - What are the differences between this project and the last one?
 
 ## <a id="slide"></a>Slide Deck
 
@@ -53,12 +55,3 @@ This workshop will cover key considerations for preparing and sharing data and s
 - Kitzes, J., Turek D., & Deniz, F. (Eds.). (2018). *The practice of reproducible research: Case studies and lessons from the data-intensive sciences*. Oakland, CA: University of California Press. <https://www.practicereproducibleresearch.org>
 - Steeves, V., Rampin, R., & Chirigati, F. (2018). Using ReproZip for reproducibility and library Services. *IASSIST Quarterly, 42*(1), 14–14. <https://doi.org/10/gf9hw5>.
 - Tatman, R., VanderPlas, J., & Dane, S. (2018). A practical taxonomy of reproducibility for machine learning research. *International Conference on Machine Learning*. Reproducibility in Machine Learning Workshop at ICML 2018, Stockholm, Sweden. <http://www.rctatman.com/files/2018-7-14-MLReproducability.pdf>
-
-
-   - Is there a relationship between countries’ wealth or spending on schooling and its students’ performance in PISA? (Klajnerok, 2017) 
-     - Article: <https://towardsdatascience.com/is-there-a-relationship-between-countries-wealth-or-spending-on-schooling-and-its-students-a9feb669be8c>  
- 
-   - How significant are the public dimensions of faculty work in review, promotion, and tenure documents? (Alperin et al., 2018) 
-     - Article: <http://doi.org/10.17613/M6W950N3>
-     - Reproduced Repo (data & code): <https://github.com/research-reuse/rpt-project>  
-3. Instructions for altering code
