@@ -7,12 +7,12 @@
 	<main class="container">
 		<section class="about">
 			<a href="{{ site.url }}"><img src="{{ "/assets/r-logo.png" | relative_url }}" alt="{{ site.name }}"></a>
-			<a href="#top"><h2>{{ site.title }}</h2></a>
+			<a href="{{ site.url }}"><h2>{{ site.title }}</h2></a>
 			<!--<p class="tagline">{{ site.tagline }}</p><-->
 			<ul class="side-menu">
-				<li><a href="#workshop">Workshop</a></li>
-				<li><a href="#slide">Slide Deck</a></li>
-				<li><a href="#references">Resources</a></li>
+				<li><a href="{{ site.url }}#workshop">Workshop</a></li>
+				<li><a href="{{ site.url }}#slide">Slide Deck</a></li>
+				<li><a href="{{ site.url }}#references">References</a></li>
 			</ul>
 			<ul class="social">
 				<a href="https://github.com/{{ site.social_links.github }}"><li><i class="icon-github-circled"></i></li></a>

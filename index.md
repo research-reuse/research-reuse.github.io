@@ -33,7 +33,7 @@ This workshop will cover key considerations for preparing and sharing data and s
 1. Open the following link:
    - Is there a relationship between countries’ wealth or spending on schooling and its students’ performance in PISA? (Klajnerok, 2017)
      - Article: <https://towardsdatascience.com/is-there-a-relationship-between-countries-wealth-or-spending-on-schooling-and-its-students-a9feb669be8c>  
-2. Open [Activity 3: Inspecting the repository and the notebook](/activity3/).
+2. Open [Activity 3: Exploring the repository and the notebook](/activity3/).
 3. Open [Activity 4: Experimenting with the code](/activity4/).
 4. Bonus activity: Play around with another repository:
     - How significant are the public dimensions of faculty work in review, promotion, and tenure documents? (Alperin et al., 2018) 
