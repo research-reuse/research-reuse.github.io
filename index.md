@@ -30,18 +30,12 @@ This workshop will cover key considerations for preparing and sharing data and s
 
 ### Part III: Reproducibility from the perspective of data re-users
 
-1. Explore the repository:
-   - From the PISA repository, open [`requirements.txt`](https://github.com/research-reuse/PISA/tree/master/binder) and [`runtime.txt`](https://github.com/research-reuse/PISA/tree/master/binder) files.
-2. Open the Jupyter notebook file: [`pisa_project_part1.ipynb`](https://github.com/research-reuse/PISA/tree/master/pisa_basic/notebooks)
-3. Activity 1: In the Git directory, find the location of the following `.csv` files (matching the filenames found in cell 2 of the Jupyter notebook):
-   - `pisa_math_2003_2015.csv`
-   - `pisa_read_2000_2015.csv`
-   - `pisa_science_2006_2015.csv`
-4. Activity 2: Experimenting with the code.
-   - Click on the MyBinder link in the PISA repository: 
-	  - Is there a relationship between countries’ wealth or spending on schooling and its students’ performance in PISA? (Klajnerok, 2017) <https://github.com/research-reuse/PISA>	
-	  - Complete the [Code snippets](/activity2/) activity.
-5. Bonus activity: Play around with another repository:
+1. Open the following link:
+   - Is there a relationship between countries’ wealth or spending on schooling and its students’ performance in PISA? (Klajnerok, 2017)
+     - Article: <https://towardsdatascience.com/is-there-a-relationship-between-countries-wealth-or-spending-on-schooling-and-its-students-a9feb669be8c>  
+2. Open [Activity 3: Inspecting the repository and the notebook](/activity3/).
+3. Open [Activity 4: Experimenting with the code](/activity4/).
+4. Bonus activity: Play around with another repository:
    - How significant are the public dimensions of faculty work in review, promotion, and tenure documents? (Alperin et al., 2018) <https://github.com/research-reuse/rpt-project>
      - What are the differences between this project and the last one?
 
