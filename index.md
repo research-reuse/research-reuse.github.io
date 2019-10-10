@@ -30,16 +30,19 @@ This workshop will cover key considerations for preparing and sharing data and s
 
 ### Part III: Reproducibility from the perspective of data re-users
 
-1. Graphic explaining virtual machines
-   - [How Binder works](/assets/mybinder-workflow.jpeg)
-2. Load the data:
-   - Is there a relationship between countries’ wealth or spending on schooling and its students’ performance in PISA? (Klajnerok, 2017) 
-     - Article: <https://towardsdatascience.com/is-there-a-relationship-between-countries-wealth-or-spending-on-schooling-and-its-students-a9feb669be8c>  
-     - Reproduced Repo (data & code): <https://github.com/research-reuse/PISA>  
-   - How significant are the public dimensions of faculty work in review, promotion, and tenure documents? (Alperin et al., 2018) 
-     - Article: <http://doi.org/10.17613/M6W950N3>
-     - Reproduced Repo (data & code): <https://github.com/research-reuse/rpt-project>  
-3. Instructions for altering code
+1. Explore the repository:
+   - From the PISA repository, open [`requirements.txt`](https://github.com/research-reuse/PISA/tree/master/binder) and [`runtime.txt`](https://github.com/research-reuse/PISA/tree/master/binder) files.
+2. Open the Jupyter notebook file: [`pisa_project_part1.ipynb`](https://github.com/research-reuse/PISA/tree/master/pisa_basic/notebooks)
+3. Activity 1: In the Git directory, find the location of the following `.csv` files (matching the filenames found in cell 2 of the Jupyter notebook):
+   - `pisa_math_2003_2015.csv`
+   - `pisa_read_2000_2015.csv`
+   - `pisa_science_2006_2015.csv`
+4. Activity 2: Experimenting with the code.
+   - Click on the MyBinder link in the PISA repository: 
+	  - Is there a relationship between countries’ wealth or spending on schooling and its students’ performance in PISA? (Klajnerok, 2017) <https://github.com/research-reuse/PISA>	
+5. Bonus activity: Play around with this repository:
+   - How significant are the public dimensions of faculty work in review, promotion, and tenure documents? (Alperin et al., 2018) <https://github.com/research-reuse/rpt-project>
+     - What are the differences between this project and the last one?
 
 ## <a id="slide"></a>Slide Deck
 
@@ -55,3 +58,12 @@ This workshop will cover key considerations for preparing and sharing data and s
 - Kitzes, J., Turek D., & Deniz, F. (Eds.). (2018). *The practice of reproducible research: Case studies and lessons from the data-intensive sciences*. Oakland, CA: University of California Press. <https://www.practicereproducibleresearch.org>
 - Steeves, V., Rampin, R., & Chirigati, F. (2018). Using ReproZip for reproducibility and library Services. *IASSIST Quarterly, 42*(1), 14–14. <https://doi.org/10/gf9hw5>.
 - Tatman, R., VanderPlas, J., & Dane, S. (2018). A practical taxonomy of reproducibility for machine learning research. *International Conference on Machine Learning*. Reproducibility in Machine Learning Workshop at ICML 2018, Stockholm, Sweden. <http://www.rctatman.com/files/2018-7-14-MLReproducability.pdf>
+
+
+   - Is there a relationship between countries’ wealth or spending on schooling and its students’ performance in PISA? (Klajnerok, 2017) 
+     - Article: <https://towardsdatascience.com/is-there-a-relationship-between-countries-wealth-or-spending-on-schooling-and-its-students-a9feb669be8c>  
+ 
+   - How significant are the public dimensions of faculty work in review, promotion, and tenure documents? (Alperin et al., 2018) 
+     - Article: <http://doi.org/10.17613/M6W950N3>
+     - Reproduced Repo (data & code): <https://github.com/research-reuse/rpt-project>  
+3. Instructions for altering code
