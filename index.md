@@ -40,8 +40,8 @@ This workshop will cover key considerations for preparing and sharing data and s
 4. Activity 2: Experimenting with the code.
    - Click on the MyBinder link in the PISA repository: 
 	  - Is there a relationship between countries’ wealth or spending on schooling and its students’ performance in PISA? (Klajnerok, 2017) <https://github.com/research-reuse/PISA>	
-	  - [Code snippets](/activity2/)
-5. Bonus activity: Play around with this repository:
+	  - Complete the [Code snippets](/activity2/) activity.
+5. Bonus activity: Play around with another repository:
    - How significant are the public dimensions of faculty work in review, promotion, and tenure documents? (Alperin et al., 2018) <https://github.com/research-reuse/rpt-project>
      - What are the differences between this project and the last one?
 
