@@ -26,7 +26,7 @@ This workshop will cover key considerations for preparing and sharing data and s
    - A review of riverine ecosystem service quantification: research gaps and recommendations (Hanna et al., 2017)  
      - Article: <https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13045>  
      - Repo (data & code): <https://zenodo.org/record/1013254> 
-3. Complete the [Assessment Framework](https://docs.google.com/document/d/1E0c5-DDVo2MMoF2rPOiH2brIZyC_3YZZrcgp0x6VCPs/edit).
+3. Complete Activity 2: [Assessment Framework](https://docs.google.com/document/d/1E0c5-DDVo2MMoF2rPOiH2brIZyC_3YZZrcgp0x6VCPs/edit).
 
 ### Part III: Reproducibility from the perspective of data re-users
 
