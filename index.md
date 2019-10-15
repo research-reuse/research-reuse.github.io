@@ -14,7 +14,7 @@ This workshop will cover key considerations for preparing and sharing data and s
 
 ### Part II: Reproducibility from the perspective of data creators/curators
 
-1. Open [Activity 1 - Organization & assessment of research materials](https://docs.google.com/document/d/1Rh3pTZeJikceWaiba86gXdDHcthkRKjcUkAxiCh7vlE/edit).
+1. Open [Activity 1: Organization & assessment of research materials](https://docs.google.com/document/d/1Rh3pTZeJikceWaiba86gXdDHcthkRKjcUkAxiCh7vlE/edit).
 2. Compile the following dataset materials in OSF:
    - Balanced Journalism Amplifies Minority Positions: A Case Study of the Newspaper Coverage of a Fluoridation Plebiscite (Kiss et al., 2018)  
      - Article: <https://www.cjc-online.ca/index.php/journal/article/view/3355>  
@@ -26,7 +26,7 @@ This workshop will cover key considerations for preparing and sharing data and s
    - A review of riverine ecosystem service quantification: research gaps and recommendations (Hanna et al., 2017)  
      - Article: <https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13045>  
      - Repo (data & code): <https://zenodo.org/record/1013254> 
-3. Complete Activity 2: [Assessment Framework](https://docs.google.com/document/d/1E0c5-DDVo2MMoF2rPOiH2brIZyC_3YZZrcgp0x6VCPs/edit).
+3. Complete [Activity 2: Reproducibility Framework](https://docs.google.com/document/d/1E0c5-DDVo2MMoF2rPOiH2brIZyC_3YZZrcgp0x6VCPs/edit).
 
 ### Part III: Reproducibility from the perspective of data re-users
 
@@ -54,4 +54,6 @@ This workshop will cover key considerations for preparing and sharing data and s
 - Itech Gal. (March 1, 2018). Better Python dependency while packaging your project. *Python Pandemonium*. <https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1>.
 - Kitzes, J., Turek D., & Deniz, F. (Eds.). (2018). *The practice of reproducible research: Case studies and lessons from the data-intensive sciences*. Oakland, CA: University of California Press. <https://www.practicereproducibleresearch.org>
 - Steeves, V., Rampin, R., & Chirigati, F. (2018). Using ReproZip for reproducibility and library Services. *IASSIST Quarterly, 42*(1), 14–14. <https://doi.org/10/gf9hw5>.
+- *Reproducibility in science: A guide to enhancing reproducibility in scientific results and writing*. (n.d.). Retrieved October 15, 2019, from <https://ropensci.github.io/reproducibility-guide>.
 - Tatman, R., VanderPlas, J., & Dane, S. (2018). A practical taxonomy of reproducibility for machine learning research. *International Conference on Machine Learning*. Reproducibility in Machine Learning Workshop at ICML 2018, Stockholm, Sweden. <http://www.rctatman.com/files/2018-7-14-MLReproducability.pdf>
+- Wang, H. (Feb 17, 2019). LibGuides: Research reproducibility. Carnegie Mellon University Libraries. Retrieved October 11, 2019, from <https://guides.library.cmu.edu/reproducibility/home>
