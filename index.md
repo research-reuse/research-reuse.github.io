@@ -8,7 +8,7 @@ This workshop will cover key considerations for preparing and sharing data and s
 *Facilitators*: [Shahira Khair](mailto:skhair@uvic.ca), [Sandra Sawchuk](mailto:sandra.sawchuk@msvu.ca)    
 *Collaborator*: [Qian Zhang](mailto:qian.zhang1@uwaterloo.ca)
 
-[Reproducibility Framework](https://docs.google.com/document/d/1E0c5-DDVo2MMoF2rPOiH2brIZyC_3YZZrcgp0x6VCPs/edit)
+**The [Reproducibility Framework](https://docs.google.com/document/d/1E0c5-DDVo2MMoF2rPOiH2brIZyC_3YZZrcgp0x6VCPs/edit) is available for download on Google Docs with a [CC0 license](https://creativecommons.org/share-your-work/public-domain/cc0/).**
 
 ## <a id="workshop"></a>Workshop Agenda
 
