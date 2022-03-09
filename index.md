@@ -56,7 +56,7 @@ This workshop will cover key considerations for preparing and sharing data and s
 - Itech Gal. (March 1, 2018). Better Python dependency while packaging your project. *Python Pandemonium*. <https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1>.
 - Kitzes, J., Turek D., & Deniz, F. (Eds.). (2018). *The practice of reproducible research: Case studies and lessons from the data-intensive sciences*. Oakland, CA: University of California Press. <https://www.practicereproducibleresearch.org>
 - Sawchuk, S. L., & Khair, S. (2021). Computational reproducibility: A practical framework for data curators. *Journal of EScience Librarianship, 10*(3), 7. <https://doi.org/10/gmgkth>.
-- Steeves, V., Rampin, R., & Chirigati, F. (2018). Using ReproZip for reproducibility and library Services. *IASSIST Quarterly, 42*(1), 14–14. <https://doi.org/10/gf9hw5>.
+- Steeves, V., Rampin, R., & Chirigati, F. (2018). Using ReproZip for reproducibility and library services. *IASSIST Quarterly, 42*(1), 14–14. <https://doi.org/10/gf9hw5>.
 - *Reproducibility in science: A guide to enhancing reproducibility in scientific results and writing*. (n.d.). Retrieved October 15, 2019, from <https://ropensci.github.io/reproducibility-guide>.
 - Tatman, R., VanderPlas, J., & Dane, S. (2018). A practical taxonomy of reproducibility for machine learning research. *International Conference on Machine Learning*. Reproducibility in Machine Learning Workshop at ICML 2018, Stockholm, Sweden. <http://www.rctatman.com/files/2018-7-14-MLReproducability.pdf>
 - Wang, H. (Feb 17, 2019). LibGuides: Research reproducibility. Carnegie Mellon University Libraries. Retrieved October 11, 2019, from <https://guides.library.cmu.edu/reproducibility/home>
