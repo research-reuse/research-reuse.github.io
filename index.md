@@ -20,14 +20,14 @@ This workshop will cover key considerations for preparing and sharing data and s
 2. Compile the following dataset materials in OSF:
    - Balanced Journalism Amplifies Minority Positions: A Case Study of the Newspaper Coverage of a Fluoridation Plebiscite (Kiss et al., 2018)  
      - Article: <https://www.cjc-online.ca/index.php/journal/article/view/3355>  
-     - Repo (data & code): <https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP/V2VPZ4> 
+     - Repo (data & code): <https://dataverse.scholarsportal.info/dataset.xhtml?persistentId=doi:10.5683/SP/V2VPZ4>
    - The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles (Piwowar et al., 2018)  
      - Article: <https://peerj.com/articles/4375/>  
      - Repo (data): <https://zenodo.org/record/1041791#.XXAIisR7m70>  
      - Repo (code): <https://github.com/Impactstory/oadoi-paper1>
    - A review of riverine ecosystem service quantification: research gaps and recommendations (Hanna et al., 2017)  
      - Article: <https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2664.13045>  
-     - Repo (data & code): <https://zenodo.org/record/1013254> 
+     - Repo (data & code): <https://zenodo.org/record/1013254>
 3. Complete [Activity 2: Reproducibility Framework](https://docs.google.com/document/d/1E0c5-DDVo2MMoF2rPOiH2brIZyC_3YZZrcgp0x6VCPs/edit).
 
 ### Part III: Reproducibility from the perspective of data re-users
@@ -38,7 +38,7 @@ This workshop will cover key considerations for preparing and sharing data and s
 2. Open [Activity 3: Exploring the repository and the notebook](/activity3/).
 3. Open [Activity 4: Experimenting with the code](/activity4/).
 4. Bonus activity: Play around with another repository:
-    - How significant are the public dimensions of faculty work in review, promotion, and tenure documents? (Alperin et al., 2018) 
+    - How significant are the public dimensions of faculty work in review, promotion, and tenure documents? (Alperin et al., 2018)
       - Article: <http://doi.org/10.17613/M6W950N3>
       - Reproduced Repo (data & code): <https://github.com/research-reuse/rpt-project>  
         - What are the differences between this project and the last one?
@@ -55,6 +55,7 @@ This workshop will cover key considerations for preparing and sharing data and s
 - Clyburn-Sherin, A. (2019). Preparing data and code for reproducible publication using container technology. *Research Data Access and Preservation Summit*. 2019 Workshop. Coral Gables, FL. Slides accessed September 05, 2019 from <http://bit.ly/rdap-workshop>.
 - Itech Gal. (March 1, 2018). Better Python dependency while packaging your project. *Python Pandemonium*. <https://medium.com/python-pandemonium/better-python-dependency-and-package-management-b5d8ea29dff1>.
 - Kitzes, J., Turek D., & Deniz, F. (Eds.). (2018). *The practice of reproducible research: Case studies and lessons from the data-intensive sciences*. Oakland, CA: University of California Press. <https://www.practicereproducibleresearch.org>
+- Sawchuk, S. L., & Khair, S. (2021). Computational Reproducibility: A Practical Framework for Data Curators. *Journal of EScience Librarianship, 10*(3), 7. <https://doi.org/10/gmgkth>.
 - Steeves, V., Rampin, R., & Chirigati, F. (2018). Using ReproZip for reproducibility and library Services. *IASSIST Quarterly, 42*(1), 14–14. <https://doi.org/10/gf9hw5>.
 - *Reproducibility in science: A guide to enhancing reproducibility in scientific results and writing*. (n.d.). Retrieved October 15, 2019, from <https://ropensci.github.io/reproducibility-guide>.
 - Tatman, R., VanderPlas, J., & Dane, S. (2018). A practical taxonomy of reproducibility for machine learning research. *International Conference on Machine Learning*. Reproducibility in Machine Learning Workshop at ICML 2018, Stockholm, Sweden. <http://www.rctatman.com/files/2018-7-14-MLReproducability.pdf>
